@@ -111,7 +111,8 @@ header {
 
 .hero {
 
-    background: url(../images/hero.jpg) no-repeat center right;
+    background: url(../images/hero.jpg) no-repeat ;
+    background-position: center right;
     background-size: cover;
    
 }
